@@ -26,11 +26,12 @@ Phishing URL Detector is a desktop GUI application built with Python and Tkinter
    ```bash
    git clone https://github.com/kartikthakurx/Phishing-URL-Detector.git
    cd phishing-url-detector
+   ```
 
 2. **Run the application:**
-
-python phishingurl.py
-
+   ```bash
+   python phishingurl.py
+   ```
 Note: Live WHOIS, DNS, SSL, and HTTP checks require an active internet connection and may time out or vary depending on target servers and WHOIS rate limits.
 
 ## 👨‍💻 Developer
