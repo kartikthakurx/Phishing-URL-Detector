@@ -14,6 +14,12 @@ Phishing URL Detector is a desktop GUI application built with Python and Tkinter
 - **GUI & Language:** Python, Tkinter (`messagebox`, `scrolledtext`)
 - **Libraries Used:** `requests`, `urllib.parse`, `tldextract`, `validators`, `whois`, `dnspython` (`dns.resolver`), `beautifulsoup4` (`bs4`), `ssl`, `socket`, `re`, `math`, `difflib`
 
+## 📸 Screenshots
+
+### Phishing vs Safe URL Detection
+<img width="1201" height="451" alt="Screenshot 2026-11-22 190035" src="https://github.com/user-attachments/assets/d3aebc19-2f3b-44b7-a584-688d77e24b55" />
+
+
 
 ## 🚀 Local Installation & Setup
 
